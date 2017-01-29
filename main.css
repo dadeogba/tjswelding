@@ -84,5 +84,12 @@ cursor: pointer;
 
 body {
   background-image: url("/Users/Deb/Documents/tjswelding/img/tjwelding.jpg");
-  background-size: 1920px 1080px;
+  background-size: auto;
+}
+
+.header h1 {
+margin: 0;
+padding: 0;
+font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
 }
