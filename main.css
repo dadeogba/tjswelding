@@ -81,3 +81,8 @@ cursor: pointer;
 .nomargin { margin: 0; }
 .nopadding { padding: 0; }
 .nobullet { list-style: none; list-style-image: none; }
+
+body {
+  background-image: url("/Users/Deb/Documents/tjswelding/img/tjwelding.jpg");
+  background-size: 1920px 1080px;
+}
