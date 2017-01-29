@@ -85,6 +85,7 @@ cursor: pointer;
 body {
   background-image: url("/Users/Deb/Documents/tjswelding/img/tjwelding.jpg");
   background-size: 1366px 671px;
+  background-position: floatRight;
 }
 
 /* header */
@@ -97,8 +98,13 @@ font-size: 5em;
 text-align: center;
 }
 
-/* nav */
+/* logo */
+.logo {
+  background-color: #333333;
+  padding: 3px;
+}
 
+/* nav */
 
 ul {
     list-style-type: none;
@@ -125,5 +131,5 @@ a:hover:not(.active) {
 }
 
 .active {
-background-color:#4CAF50;
+background-color:#FFAF3A;
 }
